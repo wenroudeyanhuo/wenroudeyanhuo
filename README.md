@@ -21,8 +21,7 @@
 
 ## About Me
 
-- Backend-leaning developer with hands-on interest in Java services, Go tools, and practical systems engineering.
-- I care more about whether a project solves a real problem than whether it only looks impressive on paper.
+- Go-backend-oriented developer interested in practical systems, service design, and engineering that can actually run in real scenarios.
 - I like turning vague ideas into structured implementations with clear tradeoffs, maintainable code, and visible results.
 - Current focus: backend development, open-source practice, AI tooling, and research-oriented engineering work.
 
@@ -30,10 +29,10 @@
 
 ### Open Source
 
-- **[`yuzheng`](https://github.com/wenroudeyanhuo/yuzheng)**  
-  A fishery administration web project focused on turning domain requirements into a usable frontend workflow.  
-  `Role:` frontend implementation, page interaction, and project setup  
-  `Tech:` JavaScript / CSS / Web frontend
+- **[`ShortRoute`](https://github.com/wenroudeyanhuo/ShortRoute)**  
+  A short URL service built with `go-zero`, covering long-to-short conversion, short-link redirection, MySQL-backed sequence generation, and Redis Bloom filter checks.  
+  `Focus:` backend service design, short-link workflow, and practical middleware integration  
+  `Tech:` Go / go-zero / MySQL / Redis / Bloom Filter
 
 - **[`Mini-TMK-Agent`](https://github.com/wenroudeyanhuo/Mini-TMK-Agent)**  
   A lightweight cross-platform CLI agent that combines streaming speech recognition, translation, TUI interaction, and meeting-summary generation.  
@@ -44,6 +43,11 @@
   A Go-based review service prototype exploring service decomposition, API organization, and backend engineering structure.  
   `Role:` service-side implementation and project scaffolding  
   `Tech:` Go / Kratos / Service API
+
+- **[`yuzheng`](https://github.com/wenroudeyanhuo/yuzheng)**  
+  A fishery administration web project focused on turning domain requirements into a usable frontend workflow.  
+  `Role:` frontend implementation, page interaction, and project setup  
+  `Tech:` JavaScript / CSS / Web frontend
 
 ### Research
 
