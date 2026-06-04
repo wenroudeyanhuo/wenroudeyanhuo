@@ -69,10 +69,10 @@
 
 <p align="center">
   <a href="https://github.com/wenroudeyanhuo">
-    <img src="https://github-readme-stats.vercel.app/api?username=wenroudeyanhuo&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&count_private=true" width="48%" alt="GitHub stats" />
+    <img src="https://github-readme-stats-rho-one-56.vercel.app/api?username=wenroudeyanhuo&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&count_private=true" width="48%" alt="GitHub stats" />
   </a>
   <a href="https://github.com/wenroudeyanhuo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenroudeyanhuo&layout=compact&hide_border=true&theme=tokyonight" width="48%" alt="Top languages" />
+    <img src="https://github-readme-stats-rho-one-56.vercel.app/api/top-langs/?username=wenroudeyanhuo&layout=compact&hide_border=true&theme=tokyonight&size_weight=0.5&count_weight=0.5" width="48%" alt="Top languages" />
   </a>
 </p>
 
