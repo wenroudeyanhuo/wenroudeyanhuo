@@ -54,22 +54,8 @@
 
 ## Tech Stack
 
-**Core**
-
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,go,ts,vue,mysql,redis&theme=dark" alt="Core stack" />
-</p>
-
-**Engineering**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,idea,postman&theme=dark" alt="Engineering stack" />
-</p>
-
-**Exploring**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,aws,kafka&theme=dark" alt="Exploring stack" />
+  <img src="https://skillicons.dev/icons?i=go,java,mysql,redis,docker,linux,nginx,git,github,python,fastapi,postgres,aws,kafka,elasticsearch,rabbitmq,grpc&theme=dark" alt="Tech stack" />
 </p>
 
 ## GitHub Stats
