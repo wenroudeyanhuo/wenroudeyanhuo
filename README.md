@@ -58,6 +58,13 @@
   <img src="https://skillicons.dev/icons?i=go,java,mysql,redis,docker,linux,nginx,git,github,python,fastapi,postgres,aws,kafka,elasticsearch,rabbitmq,grpc&theme=dark" alt="Tech stack" />
 </p>
 
+## AI Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Claude%20Code-Anthropic-1A1A1A?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-OpenAI-111111?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+</p>
+
 ## GitHub Stats
 
 <p align="center">
